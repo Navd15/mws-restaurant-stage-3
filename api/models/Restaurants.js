@@ -6,5 +6,11 @@
  */
 
 module.exports = {
-  attributes: {}
+  attributes: {
+"is_favorite":{
+    "type":"boolean"
+}
+
+
+  }
 };
